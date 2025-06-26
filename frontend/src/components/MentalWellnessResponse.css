@@ -1,0 +1,67 @@
+.mental-wellness-container {
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 15px 0;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.mental-wellness-content {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Headings */
+.wellness-heading {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #2c7be5;
+  font-weight: 600;
+}
+
+/* Paragraphs */
+.wellness-paragraph {
+  margin-bottom: 15px;
+}
+
+/* Lists */
+.wellness-ordered-list,
+.wellness-unordered-list {
+  padding-left: 25px;
+  margin-bottom: 20px;
+}
+
+.wellness-list-item {
+  margin-bottom: 8px;
+}
+
+/* Technique names */
+.wellness-technique-name {
+  color: #1e4e8c;
+  font-weight: 700;
+  font-size: 18px;
+  display: block;
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+/* Spacing between techniques */
+.wellness-technique-name + .wellness-paragraph {
+  margin-top: 10px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .mental-wellness-container {
+    padding: 15px;
+  }
+  
+  .mental-wellness-content {
+    font-size: 15px;
+  }
+  
+  .wellness-technique-name {
+    font-size: 17px;
+  }
+} 
