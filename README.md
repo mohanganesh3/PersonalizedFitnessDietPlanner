@@ -27,7 +27,8 @@ By dividing responsibilities among specialized agents, we've created a system th
 
 ### 🔍 Multi-Agent Architecture Diagram
 
-![HealthMindCoach Multi-Agent Architecture](https://placeholder-for-architecture-diagram.png)
+![image (3)](https://github.com/user-attachments/assets/f65726f7-c31f-4927-a823-e364ac8ed056)
+
 
 *Comprehensive view of HealthMindCoach's multi-agent architecture and information flow*
 
