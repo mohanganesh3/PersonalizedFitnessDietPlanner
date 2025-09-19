@@ -1,4 +1,4 @@
-# A Multi-Agent AI Health & Fitness Planner
+# Multi-Agent AI Health & Fitness Planner
 
 > *Combining advanced AI agent technology with health and fitness expertise to create your personal wellness companion*
 
